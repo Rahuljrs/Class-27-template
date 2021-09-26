@@ -1,0 +1,127 @@
+
+@media only screen and (max-width: 1200px) {
+    .header.clearfix {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .fixed-width {
+        width: 100%;
+        margin: auto;
+        max-width: 100%;
+       
+    }
+    .about-items {
+       
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    
+  }
+  @media only screen and (max-width: 768px) {
+    
+    .menu {
+
+    width: 100%;
+    text-align: center;
+
+  }
+  .menu-logo {
+    width: 100%;
+    text-align: center;
+    
+}
+.left {
+    text-align-last:center;
+}
+.banner h1 {
+    font-size: 36px;
+    
+}
+.banner h5 {
+    font-size: 13px;
+    padding: 10px 0px 28px 0px;
+    
+}
+.bg-b {
+    padding: 93px 0px;
+}
+.about-i {
+	
+	width: 100%;
+	text-align: center;
+}
+.about-c {
+	
+	width: 100%;
+	text-align: center;
+}
+.about-c h4 {
+
+	padding-top: 20px;
+}
+.about {
+	padding: 47px 0px 14px;
+}
+.service-item {
+	width: 48%;
+
+}
+.service {
+	padding: 40px 0px;
+}
+.service-items {
+	padding: 20px 0px 44px;
+}
+}
+@media only screen and (max-width: 600px) {
+    .service-item {
+        width: 100%;
+    }
+    .contact-icon {
+       
+        width: 100%;
+        
+    }
+    .contact-icons {
+        padding: 2px 0px 20px;
+        
+    }
+    .about-items {
+        padding-bottom: 28px;
+    }
+    .btn a {
+    
+        font-size: 14px;
+        
+        padding: 10px 20px;
+      
+    }
+    .menu ul li a {
+     
+        padding: 12px 10px;
+    }
+    .menu-logo a {
+        padding: 8px 0px;
+    }
+    .banner h1 {
+        font-size: 28px;
+    }
+    .bg-b {
+        padding: 50px 0px;
+    }
+    .about-c p {
+      
+        text-align: justify;
+    }
+        
+       
+}
+@media (max-width:420px) {
+    .banner h1 {
+        font-size: 21px;
+    }
+    .btn a {
+        font-size: 12px;
+        padding: 5px 5px;
+    }
+}
